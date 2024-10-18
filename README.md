@@ -21,6 +21,10 @@ Repeat until count random numbers are generated, then terminate the program.
 
 # Program:
 ```
+
+Name:selva jobin s
+Reg no:212223220102
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -49,8 +53,7 @@ int main()
 ```
 
 # Output :
-
-![Screenshot 2024-10-18 081326](https://github.com/user-attachments/assets/bcfb5531-7180-414c-aeef-eacde547e72c)
+![image](https://github.com/user-attachments/assets/662a65f2-b780-4330-83ba-253ecb3ae932)
 
 # Result:
 Thus the program to generate random numbers is implemented successfully
